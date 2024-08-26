@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Introduction to Cognitive Science",
+      "stars": 5,
+      "review": "Dr. Johnson is an outstanding professor. Her lectures are clear and engaging, and she really cares about her students."
+    },
+    {
+      "professor": "Dr. Michael Smith",
+      "subject": "Ethics in Technology",
+      "stars": 4,
+      "review": "Dr. Smith's class was challenging but very rewarding. The material was tough, but he was always available for help."
+    },
+    {
+      "professor": "Dr. Susan Lee",
+      "subject": "Philosophy of Mind",
+      "stars": 3,
+      "review": "Dr. Lee is knowledgeable, but her lectures can be a bit dry. The readings are interesting, though."
+    },
+    {
+      "professor": "Dr. John Kim",
+      "subject": "Artificial Intelligence",
+      "stars": 4,
+      "review": "Dr. Kim is a great teacher with real-world experience. The projects were tough but very informative."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Logic and Reasoning",
+      "stars": 5,
+      "review": "Dr. Green is an amazing professor! Her explanations are crystal clear, and she makes logic fun."
+    },
+    {
+      "professor": "Dr. David Brown",
+      "subject": "History of Philosophy",
+      "stars": 2,
+      "review": "Dr. Brown's lectures were hard to follow, and the exams were tougher than expected."
+    },
+    {
+      "professor": "Dr. Jessica Taylor",
+      "subject": "Cognitive Neuroscience",
+      "stars": 5,
+      "review": "Dr. Taylor is incredibly knowledgeable and passionate about the subject. Highly recommend her class."
+    },
+    {
+      "professor": "Dr. Robert Wilson",
+      "subject": "Ethics and Society",
+      "stars": 4,
+      "review": "Dr. Wilson's class was interesting, though some topics were a bit abstract. He encouraged great discussions."
+    },
+    {
+      "professor": "Dr. Laura White",
+      "subject": "Philosophy of Science",
+      "stars": 3,
+      "review": "Dr. White is very knowledgeable, but her teaching style is a bit monotonous."
+    },
+    {
+      "professor": "Dr. Kevin Martinez",
+      "subject": "Computational Linguistics",
+      "stars": 4,
+      "review": "Dr. Martinez is a great professor, but the workload is intense. Be prepared to work hard."
+    },
+    {
+      "professor": "Dr. Sarah Davis",
+      "subject": "Metaphysics",
+      "stars": 5,
+      "review": "Dr. Davis is an exceptional professor who makes complex topics understandable. I learned so much."
+    },
+    {
+      "professor": "Dr. Eric Robinson",
+      "subject": "Philosophy of Language",
+      "stars": 3,
+      "review": "Dr. Robinson's lectures were informative, but the grading was very strict."
+    },
+    {
+      "professor": "Dr. Anna Clark",
+      "subject": "Introduction to Logic",
+      "stars": 4,
+      "review": "Dr. Clark is a great instructor, and her class is well-structured. The problem sets are challenging but fair."
+    },
+    {
+      "professor": "Dr. Mark Evans",
+      "subject": "Philosophy of Artificial Intelligence",
+      "stars": 5,
+      "review": "Dr. Evans is an inspiring professor with a deep understanding of AI. His class is a must for anyone interested in the field."
+    },
+    {
+      "professor": "Dr. Linda Thompson",
+      "subject": "Bioethics",
+      "stars": 2,
+      "review": "Dr. Thompson's lectures were difficult to follow, and the class felt disorganized."
+    },
+    {
+      "professor": "Dr. William Harris",
+      "subject": "Epistemology",
+      "stars": 4,
+      "review": "Dr. Harris is very knowledgeable, and his lectures are thought-provoking. The exams were fair."
+    },
+    {
+      "professor": "Dr. Karen Lewis",
+      "subject": "Philosophy of Religion",
+      "stars": 5,
+      "review": "Dr. Lewis is a passionate and engaging professor. Her class was both intellectually stimulating and enjoyable."
+    },
+    {
+      "professor": "Dr. Thomas Perez",
+      "subject": "Political Philosophy",
+      "stars": 3,
+      "review": "Dr. Perez's class was interesting, but the grading was inconsistent. The readings were heavy."
+    },
+    {
+      "professor": "Dr. Patricia Adams",
+      "subject": "Philosophy and the Arts",
+      "stars": 4,
+      "review": "Dr. Adams is a great professor with a unique perspective. Her class was creative and engaging."
+    },
+    {
+      "professor": "Dr. James Foster",
+      "subject": "Ethics and Leadership",
+      "stars": 5,
+      "review": "Dr. Foster is an amazing professor. His class was both challenging and rewarding, and he really cares about his students' success."
+    }
+  ]
+}
